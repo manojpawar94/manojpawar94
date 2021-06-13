@@ -48,6 +48,6 @@
   :octocat:	GitHub Activities
 </h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=manojpawar94&show_icons=true&theme=algolia&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpawar94&langs_count=8&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-stats-5h70dtz96-mmpawar94.vercel.app/api?username=manojpawar94&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-stats-5h70dtz96-mmpawar94.vercel.app/api/top-langs/?username=manojpawar94&langs_count=8&show_icons=true&theme=algolia&count_private=true" />
 </div>
