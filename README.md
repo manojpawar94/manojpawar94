@@ -29,8 +29,8 @@
 </h2>
 
 <p>
-<img src="https://img.shields.io/badge/-Go-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Java-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Go-eed718?style=flat&logo=go&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Java-eed718?style=flat&logo=java&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF">
