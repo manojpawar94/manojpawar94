@@ -11,7 +11,7 @@
 </p>
 
 <h4>
-  :toolbox:	 Look at my full portfolio here <a href="https://zilu.dev/">https://zilu.dev/</a>
+  :toolbox:	 Look at my full portfolio here <a href="https://manojpawar94.dev/">https://manojpawar94.dev/</a>
 </h4>
 
 <h2>
