@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Zilu :sun_with_face: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
+### Hi there 👋 My name is Manoj Pawar:sun_with_face: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
 
 <h4>
   💻 FullStack Engineer 
