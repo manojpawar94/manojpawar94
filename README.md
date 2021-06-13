@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Java-eed718?style=flat&logo=java&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-SpringBoot-4DB33D?style=flat&logo=spring&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-Python-4DB33D?style=flat&logo=python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
