@@ -31,15 +31,10 @@
 <p>
 <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Java-eed718?style=flat&logo=java&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=1da1f2">
-<img src="https://img.shields.io/badge/-.Net-5C2D91?style=flat&logo=dot-net&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=white">
