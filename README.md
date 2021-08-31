@@ -11,7 +11,7 @@
 
 
 <h2>
-My Personal Blog
+&#127759; My Personal Blog
 </h2>
 <p>
   <a href="https://goprogramminghub.com">Go Programming Hub</a>
@@ -28,7 +28,7 @@ My Personal Blog
  - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918983120926&text=Hi!🖖)](https://api.whatsapp.com/send?phone=+918983120926&text=Hi!🖖)
 
 <br/>
-<p><i>Declaimer: The below details are updated on the 31st August 2021.</i></p>
+<p><i>&#128204; Declaimer: The below details are updated on the 31st August 2021.</i></p>
 
 <h2>
 &#128279; Professional Summary 
@@ -108,7 +108,7 @@ My Personal Blog
   </p>
   </dd>
   
-  <dt>&#9989; <h3>Senior Software Analyst (Team Lead), Citigroup</h3><dt>
+  <dt><h3>&#9989; Senior Software Analyst (Team Lead), Citigroup</h3><dt>
   <dd>
     <p><small>GRC (Remote Agent)</small></p>
     <p><b>Technologies:</b> Spring Boot, JPA, Java RMI, Oracle 11g</p>
