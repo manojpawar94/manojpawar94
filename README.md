@@ -116,7 +116,7 @@ Project Experience
      <li>Coordinating with all stakeholder and update the status and given a demo on application</li> 
      <li>Work on the DM team on the table design and creation part</li>
      <li>Development of the Angular UI application</li>
-     <li>Development of Spring boot REST API application, integration of TeamCity and GATES Application using API’s</li>
+     <li>Development of REST API application, integration of TeamCity and GATES Application using API’s</li>
   </ul>
   </p>
   </dd>
