@@ -31,7 +31,7 @@ My Personal Blog
 <p><i>Declaimer: The below details are updated on the 31st August 2021.</i></p>
 
 <h2>
-Professional Summary 
+&#128279; Professional Summary 
 </h2>
   
 - Having 5 years of experience in Java Technology.
@@ -45,7 +45,7 @@ Professional Summary
 - Working in the Agile methodology and having good working knowledge on Application development and maintenance life cycle process.
 
 <h2> 
-Experience
+&#128188; Experience
 </h2>
 
 - Currently working as a Senior Software Analyst in Citigroup, Pune from April 2020.
@@ -85,11 +85,11 @@ Experience
 
 
 <h2> 
-Project Experience
+&#128194; Project Experience
 </h2>
 
 <dl>
-  <dt><h3>Senior Software Analyst (Team Lead), Citigroup</h3></dt>
+  <dt><h3>&#9989; Senior Software Analyst (Team Lead), Citigroup</h3></dt>
   <dd>
     <p><small>GDO Application - A DevOps application</small></p>
     <p><b>Technologies:</b> Go Lang, Gin Framework, Restful, Oracle 11g, Angular, Material Design</p>
@@ -108,7 +108,7 @@ Project Experience
   </p>
   </dd>
   
-  <dt><h3>Senior Software Analyst (Team Lead), Citigroup</h3><dt>
+  <dt>&#9989; <h3>Senior Software Analyst (Team Lead), Citigroup</h3><dt>
   <dd>
     <p><small>GRC (Remote Agent)</small></p>
     <p><b>Technologies:</b> Spring Boot, JPA, Java RMI, Oracle 11g</p>
@@ -122,7 +122,7 @@ Project Experience
     </p>
   </dd>
 
-  <dt><h3>Senior Software Developer, Virtusa Corporation</h3></dt>
+  <dt><h3>&#9989; Senior Software Developer, Virtusa Corporation</h3></dt>
   <dd>
     <p><small>GATES Application | Client: Citigroup</small></p>
     <p><b>Technologies:</b>  Spring Boot, JPA, Restful, Oracle 11g, PL-SQL, Angular, Material Design</p>
@@ -145,7 +145,7 @@ Project Experience
   </p>
     </dd>
 
-  <dt><h3>Software Developer, Virtusa Corporation</h3></dt>
+  <dt><h3>&#9989; Software Developer, Virtusa Corporation</h3></dt>
   <dd>
      <p><small>BI Reporting Application | Client: Citigroup</small></p>
      <p><b>Technologies:</b> Python3, NumPy, Pandas, Flask, Angular, Chart Js, Bootstrap</p>
@@ -161,7 +161,7 @@ Project Experience
   </p>
   </dd>
   
-  <dt><h3>Software Developer, Atoconn Cooperation</h3></dt>
+  <dt><h3>&#9989; Software Developer, Atoconn Cooperation</h3></dt>
   <dd>
     <p><small>IES (Intelligent Education ERP System)</small></p>
     <p><b>Technologies:</b> Bootstrap, CSS, Java, Spring Boot</p>
@@ -176,7 +176,7 @@ Project Experience
   </p>
   </dd>
   
-  <dt><h3>Web Developer, ATOCONN Cooperation</h3></dt>
+  <dt><h3>&#9989; Web Developer, ATOCONN Cooperation</h3></dt>
   <dd>
       <p><small>Client: Navimumbaibank.com</small></p>
       <p><b>Technologies:</b> PHP, Html, jQuery, CSS</p>
@@ -193,7 +193,7 @@ Project Experience
   </p>
   </dd>
   
-  <dt><h3>E-Guide for Tourism (final year project)</h3></dt>
+  <dt><h3>&#9989; E-Guide for Tourism (final year project)</h3></dt>
   <dd>Technologies: Android, SQLite database, WAMP Server, PHP, MySQL Database</p>
   <p><b>Description:</b> E-Guide for Tourism is a mobile platform-based solution for tourism. The application is useful for historical places, Museums, forts, Hill-stations, etc. The Bluetooth based beacon will be deployed at a specific place/spot/location on the application field. The tourist/user will have an android/ios application installed in the handheld mobile device that will detect the beacon uniquely. And based upon the identified beacon it will fetch information about that specific spot from the server like the text information about the history, Wikipedia page, YouTube video if any available. The tourist can give rank and comment for each spot so that it will be helpful to other tourists. Apart from other facilities like the nearest doctor, police and other security services have integrated in-app for tourist safety.</p>
  <p>
@@ -211,7 +211,7 @@ Project Experience
 
 
 <h2> 
-Achievements & Certifications
+&#127941; Achievements & Certifications
 </h2>
 
  - Received the STELLAR Award from Virtusa for exemplary performance and contribution in Q3 FY2019
@@ -221,7 +221,7 @@ Achievements & Certifications
 
   
 <h2>
-Education
+&#128218; Education
 </h2>
 
  - Hold Bachelor of Engineering degree from RMCET, Ambav under Mumbai University with 8.87 CGPI, 2012 - 2016
@@ -229,7 +229,7 @@ Education
  - SSC, KVHK, Thane under Maharashtra State Board, with 91.36%, 2010
 
 <h2>
-Strength
+&#128170; Strength
 </h2>
 
  - Optimistic 
@@ -237,7 +237,7 @@ Strength
  - Ability to cope up with different situations
 
 <h2>
-  Personal Details 
+&#128100; Personal Details 
 </h2>
 
 <dl>
