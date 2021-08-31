@@ -1,4 +1,4 @@
-### Hi there, Myself Manoj Pawar,  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
+## Hi there, Myself Manoj Pawar &#128522; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
 
 <h2>
   💻  FullStack Developer 
