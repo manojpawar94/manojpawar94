@@ -88,20 +88,6 @@ Project Experience
 </h2>
 
 <dl>
-  <dt><h3>Senior Software Analyst, Citigroup</h3><dt>
-  <dd>
-    <p><small>GRC (Remote Agent)</small></p>
-    <p><b>Technologies:</b> Spring Boot, JPA, Java RMI, Oracle 11g</p>
-    <p><b>Description:</b> GRC is a remote app agent to share the application load using distrubed architecute. It has capabilities of auto-service discovery. Each remote agent application register itself with central server at bootstrap. Central server share the execution request to the user based upon it availablity in the network. Also there is service which monitors the hearbeat of each agent and central server is always aware of all running agents and their health.</p> 
-    <p>
-      <b>Role & Responsibility:</b> 
-      <ul>
-        <li>Design of RMI architecture with static client and dynamic servers with service discovery</li>
-        <li>Development of RMI stub and skeleton for client and server</li>
-      </ul>
-    </p>
-  </dd>
-
   <dt><h3>Senior Software Analyst, Citigroup</h3></dt>
   <dd>
     <p><small>GDO Application - A DevOps application</small></p>
@@ -119,6 +105,20 @@ Project Experience
      <li>Development of REST API application, integration of TeamCity and GATES Application using API’s</li>
   </ul>
   </p>
+  </dd>
+  
+  <dt><h3>Senior Software Analyst, Citigroup</h3><dt>
+  <dd>
+    <p><small>GRC (Remote Agent)</small></p>
+    <p><b>Technologies:</b> Spring Boot, JPA, Java RMI, Oracle 11g</p>
+    <p><b>Description:</b> GRC is a remote app agent to share the application load using distrubed architecute. It has capabilities of auto-service discovery. Each remote agent application register itself with central server at bootstrap. Central server share the execution request to the user based upon it availablity in the network. Also there is service which monitors the hearbeat of each agent and central server is always aware of all running agents and their health.</p> 
+    <p>
+      <b>Role & Responsibility:</b> 
+      <ul>
+        <li>Design of RMI architecture with static client and dynamic servers with service discovery</li>
+        <li>Development of RMI stub and skeleton for client and server</li>
+      </ul>
+    </p>
   </dd>
 
   <dt><h3>Senior Software Developer, Virtusa Corporation</h3></dt>
