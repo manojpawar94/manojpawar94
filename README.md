@@ -1,16 +1,10 @@
-### Hi there 👋 My name is Manoj Pawar
+### Hi there, Myself Manoj Pawar,
 
-:sun_with_face: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manojpawar94.manojpawar94)
 
 <h2>
-  💻 FullStack Engineer 
+  💻  FullStack Developer 
 </h2>
-
-<p>
-  Passionate about TinyAI, Internet of Things and Go Lang and Java.
-  <br />
-  Build web and mobile apps that provide intuitive workflows. Love to shower technologies for best possible use cases.
-</p>
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=manojpawar94&show_icons=true&theme=algolia&count_private=true" />
