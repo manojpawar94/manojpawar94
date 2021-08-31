@@ -9,6 +9,8 @@
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=manojpawar94&show_icons=true&theme=algolia&count_private=true" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpawar94&langs_count=8&show_icons=true&theme=algolia&count_private=true" />
+  
+ [![Manoj Pawas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manojpawar94)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
