@@ -29,6 +29,8 @@ My Personal Blog
  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmpawar94@gmail.com)](mailto:mmpawar94@gmail.com)
  - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918983120926&text=Hi!🖖)](https://api.whatsapp.com/send?phone=+918983120926&text=Hi!🖖)
 
+<p>* Disclaimer <i>The below details are updated on the 31st August 2021.</i></p>
+
 <h2>
 Professional Summary 
 </h2>
