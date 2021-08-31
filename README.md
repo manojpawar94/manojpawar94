@@ -88,7 +88,7 @@ Project Experience
 </h2>
 
 <dl>
-  <dt><h3>Senior Software Analyst, Citigroup</h3></dt>
+  <dt><h3>Senior Software Analyst (Team Lead), Citigroup</h3></dt>
   <dd>
     <p><small>GDO Application - A DevOps application</small></p>
     <p><b>Technologies:</b> Go Lang, Gin Framework, Restful, Oracle 11g, Angular, Material Design</p>
@@ -107,7 +107,7 @@ Project Experience
   </p>
   </dd>
   
-  <dt><h3>Senior Software Analyst, Citigroup</h3><dt>
+  <dt><h3>Senior Software Analyst (Team Lead), Citigroup</h3><dt>
   <dd>
     <p><small>GRC (Remote Agent)</small></p>
     <p><b>Technologies:</b> Spring Boot, JPA, Java RMI, Oracle 11g</p>
