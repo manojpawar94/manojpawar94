@@ -55,11 +55,10 @@
 </h2>
 
 - Programming Languages: Java, GoLang, Python, SQL 
-- Java Frameworks: Spring Boot, Hibernate 
+- Java Frameworks: Spring Boot (Rest, JPA)
 - Go Framework: Gin
-- Python Frameworks: NumPy, Pandas, Flask 
 - Server-side Technology: Servlet, JSP 
-- Front Technology: Angular 7, HTML, CSS, Bootstrap, jQuery 
+- Front Technology: Angular, HTML, CSS, Bootstrap, jQuery 
 - Database: Oracle 11g, MySQL 
 - Operation System: Linux, macOS (High Sierra), Windows 
 - Tool: Putty, Tectia
