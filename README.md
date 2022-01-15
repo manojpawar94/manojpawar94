@@ -38,8 +38,6 @@
 - Excellent Java development skills using Spring-Boot, JPA, J2SE, RMI, Multithreading, JDBC.
 - Having 2 years of experience in the Go Language and skills on Gin framework
 - Excellent front-end development skills using Angular, Bootstrap, jQuery, CSS, HTML.
-- Having hands-on experience in Python3, NumPy, Pandas, and Flask framework. 
-- Having a sound knowledge of developing the React, PL SQL procedure, and Linux Shell Scripts.
 - Having hands-on experience in handling Use Cases, Functional Specification, Knowledge Transfers, and Business Analysis.
 - Extensive Object-Oriented Development OOP/OOD experience.
 - Working in the Agile methodology and having good working knowledge on Application development and maintenance life cycle process.
