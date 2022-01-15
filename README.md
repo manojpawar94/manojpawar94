@@ -124,7 +124,7 @@
 
   <dt><h3>&#9989; Senior Software Developer, Virtusa Corporation</h3></dt>
   <dd>
-    <p><small>GATES Application | Client: Citigroup</small></p>
+    <p><small>GATES Application</small></p>
     <p><b>Technologies:</b>  Spring Boot, JPA, Restful, Oracle 11g, PL-SQL, Angular, Material Design</p>
     <p><b>Description:</b> The GATES is a web-based solution to process the data end to end and perform the data validation. It has a feature to perform prerequisite steps like data clean up, remove logs, stop files, etc. The data preparation feature is like updating or inserting data. It can communicate with different databases with custom connection to perform CRUD operation as well as connect to remote Unix box and MQ’s to query commands with and without power broker access. It is also able to send an event to Autosys Job scheduler and fetch data from JIRA and get sync with it. Gates supports the different data validation features like comparing the data among source and target with various transformation logic/rules. It also supports file to table data comparison feature for delimited, fixed-length, XML files with various transformations logic/rules. It has a feature to compare data between files for delimited, fixed-length files. It also has a feature to compare data based upon the Native source and target queries and take data extracts.</p>
  <p>
