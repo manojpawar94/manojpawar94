@@ -34,7 +34,7 @@
 &#128279; Professional Summary 
 </h2>
   
-- Having 5.7 years of experience in Java Technology.
+- Having 6 years of experience in Java Technology.
 - Excellent Java development skills using Spring-Boot, JPA, J2SE, RMI, Multithreading, JDBC.
 - Having 2 years of experience in the Go Language and skills on Gin framework
 - Excellent front-end development skills using Angular, Bootstrap, jQuery, CSS, HTML.
